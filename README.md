@@ -43,13 +43,13 @@ sudo bash install.sh
 
 # Images & Icons
 
-1. **All out Attack** images
+1. **All Out Attack** images
     - https://i.imgur.com/a/aH0D8FY
 
 2. Icons
     - https://www.reddit.com/r/linux/comments/nt1tm9/i_made_a_uniform_icon_set_of_linux_distribution/
 
-> I edited the icons to match the colour with the image's colour. Some icons are not from the link above.
+> I edited the icons to match the color with the image's color. Some icons are not from the link above.
 
 # Additional icon sources
 
